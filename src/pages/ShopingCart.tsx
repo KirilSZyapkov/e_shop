@@ -32,7 +32,7 @@ function ShopingCart() {
       "pk_test_51L0t34LCIiqvQfkBhUqZXQyvklKTBpznH0D58nkQhBeIKaETqeXpNqlMuuS0xguX4mKgtBXIl7xI17B68olcRZps00N3o5W8T3"
     );
 
-    fetch("https://worrisome-ant-shoe.cyclic.app ", {
+    fetch("https://worrisome-ant-shoe.cyclic.app/create-checkout-session", {
       method: "POST",
       headers: {
         "Content-type": "application/json",
