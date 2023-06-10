@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nulla tempore quaerat deserunt? Quia quas expedita nostrum est qui adipisci!",
+      "imgUrl": "/book.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nulla tempore quaerat deserunt? Quia quas expedita nostrum est qui adipisci!",
+      "imgUrl": "/computer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nulla tempore quaerat deserunt? Quia quas expedita nostrum est qui adipisci!",
+      "imgUrl": "/banana.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nulla tempore quaerat deserunt? Quia quas expedita nostrum est qui adipisci!",
+      "imgUrl": "/car.jpg"
+    }
+  ]
